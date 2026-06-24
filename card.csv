@@ -1,0 +1,15 @@
+Bank/Card Issuer,No Cost EMI Available,Provider,One Shot Payment
+American Express (AMEX),Yes,Razorpay,Yes
+AU Small Finance Bank,Yes,Razorpay & Cashfree,Yes
+Axis Bank,Yes,Razorpay & Cashfree,Yes
+Bank of Baroda,Yes,Razorpay & Cashfree,Yes
+Federal Bank,Yes,Razorpay,Yes
+HSBC Bank,Yes,Razorpay,Yes
+ICICI Bank,Yes,Razorpay & Cashfree,Yes
+IDFC First Bank,Yes,Razorpay,Yes
+IndusInd Bank,Yes,Razorpay,Yes
+Kotak Mahindra Bank,Yes,Razorpay & Cashfree,Yes
+RBL Bank,Yes,Razorpay & Cashfree,Yes
+Standard Chartered Bank,Yes,Razorpay & Cashfree,Yes
+Yes Bank,Yes,Razorpay & Cashfree,Yes
+All Other Banks,No,N/A,Yes
